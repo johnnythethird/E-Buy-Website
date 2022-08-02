@@ -1,5 +1,5 @@
 # Frontend
-# 5th Build
+# 6th Build
 
-We've reformatted the code to now include bootstrap commands and stylings to make the code even easier to make.\
-We've also created the reviews components, stars components, and color schemes for the application. 
+The product information pages have been updated to look much cleaner and display information related to the product.\
+Error handling has also been added to handle errors like missing products. We also have loading icons.
