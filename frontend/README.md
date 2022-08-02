@@ -1,5 +1,5 @@
 # Frontend
-# 4th Build
+# 5th Build
 
-I've set up the dispatch states so that the program will load states depending on the current state.\
-I've also a added loading screen if the connection is too slow.
+We've reformatted the code to now include bootstrap commands and stylings to make the code even easier to make.\
+We've also created the reviews components, stars components, and color schemes for the application. 
