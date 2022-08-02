@@ -1,5 +1,5 @@
 # Frontend
-# 3rd Build
+# 4th Build
 
-We've now made it so that routing is available for all product options.\
-All of the regular links have been replaced with router-dom Link.
+I've set up the dispatch states so that the program will load states depending on the current state.\
+I've also a added loading screen if the connection is too slow.
