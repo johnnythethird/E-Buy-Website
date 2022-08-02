@@ -1,3 +1,4 @@
 # Frontend
+# 2nd Build
 
-This is the initial start of the frontend. We've created the header and placeholder text.
+We've created the product line and images associated with them.
