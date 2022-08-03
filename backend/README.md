@@ -1,4 +1,4 @@
 # Backend
-# 2nd Build
+# 3rd Build
 
-We've imported the data from the frontend to the backend.
+We've begun connecting to the MongoDB database server that we've also created.
