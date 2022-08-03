@@ -1,5 +1,5 @@
 # Frontend
-# 11th Build
+# 12th Build
 
-The payment method has been added to the application and the information for the current user will carry over betweeen states.\
-We've also implemented the placeorderscreen whcih will allow users to place their order and remove all current orders from the cart.
+We've created the order screen that will show the infomation of the shipment that the user requested.\
+Paypal functionality has also been added to the order screen to confirm the order.

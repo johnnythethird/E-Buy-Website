@@ -1,5 +1,5 @@
 # Backend
-# 6th Build
+# 7th Build
 
-A backend API has been created called orderModal/OrderRoutes. OrderRoutes utilizes the isAuth function in the utils.js.\
-This API will allow a user to place an order for the items they requested.
+OrderRoutes is now able to use the get request to grab the order information for the order screen.\
+We've also added paypal functionality with the API that they provide.
