@@ -1,6 +1,4 @@
 # Frontend
-# 14th Build
+# 15th Build
 
-We have now added a sidebar to the application that will pop out from the left of the screen.\
-We've also added a search bar the top of the screen.\
-The search function works and the user can filter out data based on restrictions.
+We have now created the admin dashboard for admin users. We've also added protective routes that will protect the routes if the user is signed in.
