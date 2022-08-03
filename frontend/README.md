@@ -1,5 +1,4 @@
 # Frontend
-# 9th Build
+# 10th Build
 
-The sign in screen has been expanded upon to include more error messages and context states for the user that is logged in.\
-We've also created the shipping screen that the user will use to enter their info when buying items.
+We've added the Sign up feature to the application. It will grab the information from the backend and create a new user with those credentials.
