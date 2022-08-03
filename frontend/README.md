@@ -1,4 +1,5 @@
 # Frontend
-# 8th Build
+# 9th Build
 
-We've added a sign in screen to the application. It will also check if the fields are empty when signing in.\
+The sign in screen has been expanded upon to include more error messages and context states for the user that is logged in.\
+We've also created the shipping screen that the user will use to enter their info when buying items.
