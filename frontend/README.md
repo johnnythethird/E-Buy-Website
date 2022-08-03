@@ -1,5 +1,5 @@
 # Frontend
-# 6th Build
+# 7th Build
 
-The product information pages have been updated to look much cleaner and display information related to the product.\
-Error handling has also been added to handle errors like missing products. We also have loading icons.
+Cart functionality has been added to the application. We can add with the plus and minus buttons and the subtotal will be displayed with the correct amount.\
+We've also added functionality to the Add to Cart buttons on the home screen. The "proceed to checkout" button also works.
