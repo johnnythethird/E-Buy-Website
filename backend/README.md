@@ -1,5 +1,5 @@
 # Backend
-# 5th Build
+# 6th Build
 
-We've created a backend API that has the user enter their credentials and create a new user model. Afterwards, they will be given back their credentials\
-This information is sent the the SignupScreen.
+A backend API has been created called orderModal/OrderRoutes. OrderRoutes utilizes the isAuth function in the utils.js.\
+This API will allow a user to place an order for the items they requested.
