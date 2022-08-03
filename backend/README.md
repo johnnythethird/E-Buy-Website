@@ -1,5 +1,5 @@
 # Backend
-# 8th Build
+# 9th Build
 
-User Routes now has the ability to update the user's information when requested.\
-We tried to upload the website with heroku, but we'll have to find another way.
+Added routes for the catergories in the sidebar.\
+The search function has been added to the productRoutes so that the user can filter products based on info.

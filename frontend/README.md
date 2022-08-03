@@ -1,5 +1,6 @@
 # Frontend
-# 13th Build
+# 14th Build
 
-We've now have an order history screen that shows all the previous orders for the current user.\
-We've also give users the ability to change their profile to whatever they want their name, email, or password to become into.
+We have now added a sidebar to the application that will pop out from the left of the screen.\
+We've also added a search bar the top of the screen.\
+The search function works and the user can filter out data based on restrictions.
