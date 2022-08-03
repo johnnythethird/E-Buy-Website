@@ -1,0 +1,21 @@
+{
+  "name": "e-buy-website",
+  "version": "1.0.0",
+  "description": "This application is an e-commerce website that will allow users to sign/log in and get items the user wishes to buy.\\",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd backend && npm install  && cd ../frontend && npm install && npm run build",
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnythethird/E-Buy-Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnnythethird/E-Buy-Website/issues"
+  },
+  "homepage": "https://github.com/johnnythethird/E-Buy-Website#readme"
+}

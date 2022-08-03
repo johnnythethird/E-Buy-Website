@@ -1,5 +1,5 @@
 # Frontend
-# 12th Build
+# 13th Build
 
-We've created the order screen that will show the infomation of the shipment that the user requested.\
-Paypal functionality has also been added to the order screen to confirm the order.
+We've now have an order history screen that shows all the previous orders for the current user.\
+We've also give users the ability to change their profile to whatever they want their name, email, or password to become into.

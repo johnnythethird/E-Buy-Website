@@ -1,5 +1,5 @@
 # Backend
-# 7th Build
+# 8th Build
 
-OrderRoutes is now able to use the get request to grab the order information for the order screen.\
-We've also added paypal functionality with the API that they provide.
+User Routes now has the ability to update the user's information when requested.\
+We tried to upload the website with heroku, but we'll have to find another way.
