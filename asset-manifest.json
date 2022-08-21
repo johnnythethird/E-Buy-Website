@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/E-Buy-Website/static/css/main.295ca9de.css",
+    "main.js": "/E-Buy-Website/static/js/main.e9fe5eee.js",
+    "static/js/787.774729bc.chunk.js": "/E-Buy-Website/static/js/787.774729bc.chunk.js",
+    "index.html": "/E-Buy-Website/index.html",
+    "main.295ca9de.css.map": "/E-Buy-Website/static/css/main.295ca9de.css.map",
+    "main.e9fe5eee.js.map": "/E-Buy-Website/static/js/main.e9fe5eee.js.map",
+    "787.774729bc.chunk.js.map": "/E-Buy-Website/static/js/787.774729bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.295ca9de.css",
+    "static/js/main.e9fe5eee.js"
+  ]
+}
